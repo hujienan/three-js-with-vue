@@ -1,5 +1,7 @@
 # Using three.js in vue
 
+[Live Demo](https://hujienan.github.io/three/)
+
 ## Project setup
 ```
 npm install
