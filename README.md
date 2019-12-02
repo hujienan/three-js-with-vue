@@ -1,4 +1,4 @@
-# three-demo
+# Using three.js in vue
 
 ## Project setup
 ```
