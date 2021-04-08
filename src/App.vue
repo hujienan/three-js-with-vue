@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import * as THREE from './three/three.js';
+import * as THREE from 'three';
 const OrbitControls = require('three-orbit-controls')(THREE)
 let container
 let camera;
