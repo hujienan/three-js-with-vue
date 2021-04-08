@@ -1,6 +1,6 @@
 # Using three.js in vue
 
-[Live Demo](https://hujienan.github.io/three/)
+[Live Demo](https://hujienan.github.io/three-js-with-vue/)
 
 ## Project setup
 ```
